@@ -22,6 +22,8 @@ We first create an EC2 instance and assign necessary tags. The tags will be used
 
 <br/>
 
+### Creating SNS topic
+Create a SNS topic which will send e-mail notification 
 ![4](https://imgur.com/RhD0Jjv.jpg)
 
 <br/>
@@ -34,10 +36,13 @@ We first create an EC2 instance and assign necessary tags. The tags will be used
 
 <br/>
 
+### Create Subscription
+This will send your an e-mail which you need to confirm
 ![7](https://imgur.com/6aychmw.jpg)
 
 <br/>
 
+### Confirm Subscription
 ![8](https://imgur.com/SoJ413a.jpg)
 
 <br/>
